@@ -185,7 +185,8 @@ import React, { useState } from 'react';
 import Image from 'next/image';
 
 import JivoChat from '@/app/JivoChat';
-import NavbarSection from '@/app/Components/NavbarSection';
+import NavbarSection from '@/app/components/NavbarSection';
+
 
 
 

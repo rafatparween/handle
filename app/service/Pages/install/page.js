@@ -215,8 +215,9 @@ import Link from "next/link";
 
 import { useRouter } from "next/navigation";
 import InstallingDriversPage from "./process/page";
-import NavbarSection from "@/app/Components/NavbarSection";
-import Storepage from "@/app/Components/Storepage";
+import NavbarSection from "@/app/components/NavbarSection";
+import Storepage from "@/app/components/Storepage";
+
 
 
 
